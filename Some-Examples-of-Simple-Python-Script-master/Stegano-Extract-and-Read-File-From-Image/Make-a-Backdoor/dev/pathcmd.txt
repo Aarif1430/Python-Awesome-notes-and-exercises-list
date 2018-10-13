@@ -1,0 +1,8 @@
+C:\\WINDOWS\system32\cmd.exe
+ssh -N user@server -L 22:127.0.0.1:22
+
+#https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding
+
+[ Requirements ]
+1. sudo apt-get install openssh-server
+2. sudo apt-get install putty
